@@ -1,11 +1,11 @@
-# <TOOL_NAME>
+# TTA-repo
 
 Write a one-line description here.  
 Example: This tool takes an input directory (metadata + resources) and outputs a simplified AIBOM result (JSON).
 
 ---
 
-## TL;DR (Run Immediately)
+## Run Immediately
 
 ### Docker (Recommended)
 ```bash
